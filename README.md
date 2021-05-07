@@ -1,5 +1,8 @@
 # Flask_CI-CD
 
+
+[![Python application](https://github.com/sai-krishna-msk/Flask_CI-CD/actions/workflows/python-app.yml/badge.svg)](https://github.com/sai-krishna-msk/Flask_CI-CD/actions/workflows/python-app.yml)
+
 ## File Structure
 
 - Create src directory consisting of all application code
